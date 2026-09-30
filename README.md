@@ -24,6 +24,25 @@ prevention planning.
 - HIV/AIDS
 - Human Papillomavirus (HPV)
 
+## Dashboard Preview
+
+### Syphilis
+
+![Syphilis STI Dashboard](IMG_3820.png)
+
+### Hepatitis B
+
+![Hepatitis B Dashboard](IMG_3817.png)
+
+### HIV/AIDS
+
+![HIV/AIDS Dashboard](IMG_3818.png)
+
+### HPV
+
+![HPV Dashboard](IMG_3819.png)
+
+
 ## Key Areas Analysed
 
 ### 1. New Cases and Death Trends
@@ -109,20 +128,3 @@ population size, testing coverage, reporting practices, healthcare
 access, vaccination coverage, and other relevant epidemiological
 factors.
 
-## Dashboard Preview
-
-### Syphilis
-
-![Syphilis STI Dashboard](IMG_3820.png)
-
-### Hepatitis B
-
-![Hepatitis B Dashboard](IMG_3817.png)
-
-### HIV/AIDS
-
-![HIV/AIDS Dashboard](IMG_3818.png)
-
-### HPV
-
-![HPV Dashboard](IMG_3819.png)
