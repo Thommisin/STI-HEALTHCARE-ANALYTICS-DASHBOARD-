@@ -113,7 +113,7 @@ factors.
 
 ### Syphilis
 
-![Syphilis STI Dashboard](images/syphilis-dashboard.png)
+![Syphilis STI Dashboard](IMG_3817.png)
 
 ### Hepatitis B
 
