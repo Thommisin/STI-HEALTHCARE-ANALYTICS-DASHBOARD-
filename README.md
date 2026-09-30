@@ -117,7 +117,7 @@ factors.
 
 ### Hepatitis B
 
-![Hepatitis B Dashboard](images/hepatitis-b-dashboard.png)
+![Hepatitis B Dashboard](IMG_3817.png)
 
 ### HIV/AIDS
 
