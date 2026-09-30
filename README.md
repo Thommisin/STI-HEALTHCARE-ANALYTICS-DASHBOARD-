@@ -113,7 +113,7 @@ factors.
 
 ### Syphilis
 
-![Syphilis STI Dashboard](IMG_3817.png)
+![Syphilis STI Dashboard](IMG_3818.png)
 
 ### Hepatitis B
 
@@ -121,8 +121,8 @@ factors.
 
 ### HIV/AIDS
 
-![HIV/AIDS Dashboard](images/hiv-aids-dashboard.png)
+![HIV/AIDS Dashboard](IMG_3819.png)
 
 ### HPV
 
-![HPV Dashboard](images/hpv-dashboard.png)
+![HPV Dashboard](IMG_3820.png)
